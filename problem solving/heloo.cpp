@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main(){
+    string x;
+cout<<"enter your name";
+getline(cin,x);
+    cout<<"hello "<<x;
+    return 0;
+}
