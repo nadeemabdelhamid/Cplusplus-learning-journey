@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+int pow(int x,int power){
+if(power==0)
+return 1;
+return x*pow(x,power-1);
+
+
+
+}
+int main(){
+int x,y;
+cin>>x>>y;
+cout<<pow(x,y);
+
+
+}
