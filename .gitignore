@@ -1,0 +1,23 @@
+﻿# Compiled files
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.pch
+
+# Visual Studio generated files
+.vs/
+x64/
+Debug/
+Release/
+ipch/
+
+# Temporary files
+*.tmp
+*.log
+tempCodeRunnerFile.*
+
+# User-specific Visual Studio settings
+*.vcxproj.user
